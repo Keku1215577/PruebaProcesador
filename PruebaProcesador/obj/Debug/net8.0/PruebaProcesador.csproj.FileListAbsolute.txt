@@ -1,0 +1,14 @@
+C:\Users\juans\Downloads\PruebaProcesador\bin\Debug\net8.0\PruebaProcesador.exe
+C:\Users\juans\Downloads\PruebaProcesador\bin\Debug\net8.0\PruebaProcesador.deps.json
+C:\Users\juans\Downloads\PruebaProcesador\bin\Debug\net8.0\PruebaProcesador.runtimeconfig.json
+C:\Users\juans\Downloads\PruebaProcesador\bin\Debug\net8.0\PruebaProcesador.dll
+C:\Users\juans\Downloads\PruebaProcesador\bin\Debug\net8.0\PruebaProcesador.pdb
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.AssemblyInfoInputs.cache
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.AssemblyInfo.cs
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.csproj.CoreCompileInputs.cache
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.dll
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\refint\PruebaProcesador.dll
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.pdb
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\PruebaProcesador.genruntimeconfig.cache
+C:\Users\juans\Downloads\PruebaProcesador\obj\Debug\net8.0\ref\PruebaProcesador.dll
